@@ -1,0 +1,9 @@
+.hero-main-bg {
+    background: #3734A9;
+}
+
+.circle-blur {
+    background: #10C7DD;
+    opacity: 0.2;
+    filter: blur(50px);
+}
