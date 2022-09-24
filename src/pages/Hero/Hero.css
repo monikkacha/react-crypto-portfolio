@@ -1,3 +1,7 @@
+.hero-bg-cover {
+    background: url("https://github.com/monikkacha/react-github-portfolio/blob/master/src/data/images/background-rect.png?raw=true");
+}
+
 .hero-main-bg {
     background: #3734A9;
 }
