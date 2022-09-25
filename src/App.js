@@ -9,7 +9,7 @@ import Footer from './pages/Footer/Footer.js'
 
 const App = () => {
     return (
-        <div>
+        <div className='bg-gray-100'>
             <Hero />
             <Companie />
             <Feature />
