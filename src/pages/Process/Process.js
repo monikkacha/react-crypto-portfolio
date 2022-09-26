@@ -18,6 +18,7 @@ const Process = () => {
                         </button>
                     </div>
                 </div>
+
                 {/* content  */}
                 <div className='flex mt-6'>
                     <div className='flex-1 mt-6 pl-20'>
@@ -61,9 +62,6 @@ const Process = () => {
                                     </p>
                                 </div>
                             </div>
-
-
-
                         </div>
                     </div>
                     <div className='flex-1'>

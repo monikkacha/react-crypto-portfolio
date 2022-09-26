@@ -47,6 +47,42 @@ const EditionalInfo = () => {
                     </div>
                 </div>
             </div>
+
+
+            {/* two cards */}
+            <div className='w-[80%] mx-auto mt-16 rounded-2xl flex gap-6'>
+                <div className='flex-1 bg-white p-12 flex flex-col items-center justify-center rounded-xl shadow-lg '>
+                    <h1 className='font-bold text-3xl text-center'>
+                        Outward clothes <br />
+                        promise at gravity.
+                    </h1>
+                    <p className='mt-6 font-light text-center text-gray-600'>
+                        End-to-end payments and financial management in a single <br />
+                        solution. Meet the right platform to help realize.
+                    </p>
+                    <div className='mt-6'>
+                        <button className='bg-blue-800 text-white px-6 py-4 rounded-lg'>
+                            Read More
+                        </button>
+                    </div>
+                </div>
+                <div className='flex-1 bg-white p-12 flex flex-col items-center justify-center rounded-xl shadow-lg'>
+                    <h1 className='font-bold text-3xl text-center'>
+                        Outward clothes <br />
+                        promise at gravity.
+                    </h1>
+                    <p className='mt-6 font-light text-center text-gray-600'>
+                        End-to-end payments and financial management in a single <br />
+                        solution. Meet the right platform to help realize.
+                    </p>
+                    <div className='mt-6'>
+                        <button className='bg-blue-800 text-white px-6 py-4 rounded-lg cursor-pointer'>
+                            Read More
+                        </button>
+                    </div>
+                </div>
+            </div>
+
         </div>
     )
 }
